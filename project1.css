@@ -1,0 +1,36 @@
+h1{
+    font-size: 50px; 
+    text-align:center;
+}
+
+p{
+    font-size: 20px; 
+    text-align:center; 
+    line-height: 30px;
+    margin-bottom: 50px ;
+}
+
+.button{
+    text-align: center;
+    margin: 3%;
+}
+#anc{
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    padding: 15px 35px 15px 35px;
+}
+
+#flavour{
+    font-size: 50px;
+    text-align: center;
+}
+.vd1{
+    text-align: center;
+}
+
+video{
+       height: 300px;
+       width:40%;
+       background-color: black;
+}
